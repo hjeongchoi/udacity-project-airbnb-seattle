@@ -22,7 +22,7 @@ There is 1 notebook available here to showcase work related to the above questio
 
 # 4. Results
 The main findings of the code can be found at the post available here.
-******median 주소 넣기
+https://medium.com/@hjeongchoi/do-you-want-to-save-money-when-you-book-a-place-on-airbnb-cb41f5274e09
 
 # 5. Licensing, Authors, Acknowledgements
 Must give credit to AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. https://www.kaggle.com/airbnb/seattle/data 
