@@ -18,7 +18,7 @@ For this project, I was interestested in using AirBnb Seattle data from 2016 to 
 3) What are the main factors that the price of rooms? 
 
 # 3. File Descriptions
-There are 1 notebooks available here to showcase work related to the above questions. It is exploratory in searching through the data pertaining to the questions above. 
+There is 1 notebook available here to showcase work related to the above questions. It is exploratory in searching through the data pertaining to the questions above. 
 
 # 4. Results
 The main findings of the code can be found at the post available here.
